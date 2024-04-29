@@ -1,0 +1,42 @@
+ {
+"links": [
+        {
+            "relation": "选材",
+            "source": "元宝红烧肉",
+            "target": "五花肉",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "元宝红烧肉",
+            "target": "老抽",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "元宝红烧肉",
+            "target": "生抽",
+            "value": 3
+        }
+[,
+"nodes": [
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "麻辣水煮肉片",
+            "size": "10"
+        },
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "可乐鸡翅",
+            "size": "10"
+        },
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "元宝红烧肉",
+            "size": "10"
+        }
+[
+}
